@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 629da1698fc3fca418f5663ac7beee22
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - button_magenta: {fileID: 8813288327769749529, guid: bcb5be6e9d8d7b543b5139f3420c1721,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
