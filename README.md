@@ -1,7 +1,7 @@
 # Connect-The-Dots
 Gameplay: <br/>
 Game screen has points, each point has assigned number. Player has to click points from first to last in correct sequence.  
-When clicking on correct points, line between them is drawn. <br/>Game works in landscape mode with all aspect ratios. <br/>
+When clicking on correct points, line between them is drawn. Game works in landscape mode with all aspect ratios. <br/>
 <br/>
 Actions: <br/>
 If correct point is clicked, its texture changes to blue. <br/>
